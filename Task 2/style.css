@@ -1,0 +1,13 @@
+body{
+    background-color: #FFF8E3;
+}
+#icon{
+    height: 35px;
+    width: 40px;
+}
+
+.profile{
+    margin-top: 10px;
+    border-radius: 50%;
+    border: none;
+}
